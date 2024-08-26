@@ -22,7 +22,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/241.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/241.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/241.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_241.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_241.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_241.wav" controls preload></audio> |
 
 **242**
@@ -33,7 +33,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/242.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/242.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/242.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_242.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_242.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_242.wav" controls preload></audio> |
 
 **243**
@@ -44,7 +44,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/243.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/243.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/243.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_243.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_243.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_243.wav" controls preload></audio> |
 
 **244**
@@ -55,7 +55,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/244.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/244.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/244.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_244.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_244.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_244.wav" controls preload></audio> |
 
 **245**
@@ -66,7 +66,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/245.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/245.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/245.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_245.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_245.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_245.wav" controls preload></audio> |
 
 **316**
@@ -77,7 +77,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/316.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/316.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/316.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_316.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_316.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_316.wav" controls preload></audio> |
 
 **317**
@@ -88,7 +88,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/317.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/317.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/317.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_317.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_317.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_317.wav" controls preload></audio> |
 
 **318**
@@ -99,7 +99,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/318.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/318.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/318.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_318.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_318.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_318.wav" controls preload></audio> |
 
 **319**
@@ -110,7 +110,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/319.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/319.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/319.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_319.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_319.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_319.wav" controls preload></audio> |
 
 **320**
@@ -121,7 +121,7 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/320.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/320.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/320.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_320.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvae_vocoder_prematch/EL01v3_NL01v3_320.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_320.wav" controls preload></audio> |
 
 ## Reference
