@@ -12,6 +12,19 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 * NLXX: natural speech of speaker ID
 * ELXX: electrolaryngeal speech of speaker ID
 
+## Audio samples
+
+**316**
+
+|   System   | transcription: 他做完功課才上床睡覺 (ta juan le hen duo yi wu gei zai qu) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_316.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/316.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/316.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/316.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/316.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_316.wav" controls preload></audio> |
+
 
 ## Reference
 
