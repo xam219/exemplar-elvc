@@ -14,17 +14,115 @@ Electrolarynx (EL) can restore speech to patients without vocal cords, but the r
 
 ## Audio samples
 
+**241**
+
+|   System   | transcription: 再十分鐘火車就要開了 (zai shi fen zhong huo che jiu yao kai le) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_241.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/241.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/241.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/241.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_241.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_241.wav" controls preload></audio> |
+
+**242**
+
+|   System   | transcription: 哥哥的腳長了個大水泡 (ge ge de jiao zhang le ge da shui pao) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_242.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/242.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/242.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/242.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_242.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_242.wav" controls preload></audio> |
+
+**243**
+
+|   System   | transcription: 醫院大門口有很多花店 (yi yuan da men kou you hen duo hua dian) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_243.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/243.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/243.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/243.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_243.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_243.wav" controls preload></audio> |
+
+**244**
+
+|   System   | transcription: 他們經常去餐廳吃晚飯 (ta men jing chang qu can ting chi wan fan) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_244.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/244.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/244.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/244.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_244.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_244.wav" controls preload></audio> |
+
+**245**
+
+|   System   | transcription: 叔叔家養了一大缸金魚 (shu shu jia yang le yi da gang jin yu) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_245.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/245.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/245.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/245.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_245.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_245.wav" controls preload></audio> |
+
 **316**
 
-|   System   | transcription: 他做完功課才上床睡覺 (ta juan le hen duo yi wu gei zai qu) | 
+|   System   | transcription: 他做完功課才上床睡覺 (ta zuo wan gong ke cai shang chuang shui jue) | 
 |:---------:|:-------------------------------------------------------------------:|
 | EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_316.wav" controls preload></audio> |
 | KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/316.wav" controls preload></audio> |
 | pKNN  | <audio src="audio/knnvc_static_parallel_k8/316.wav" controls preload></audio> |
 | LLE   | <audio src="audio/llevc_dynamic_k256/316.wav" controls preload></audio> |
-| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/316.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_316.wav" controls preload></audio> |
 | NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_316.wav" controls preload></audio> |
 
+**317**
+
+|   System   | transcription: 一群孩子在那邊玩跳繩 (yi qun hai zi zai na bian wan tiao sheng) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_317.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/317.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/317.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/317.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_317.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_317.wav" controls preload></audio> |
+
+**318**
+
+|   System   | transcription: 這裡的風俗習慣很特別 (zhe li de feng su xi guan hen te bie) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_318.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/318.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/318.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/318.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_318.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_318.wav" controls preload></audio> |
+
+**319**
+
+|   System   | transcription: 他腰痛的老毛病又犯了 (ta yao tong de lao mao bing you fan le) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_319.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/319.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/319.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/319.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_319.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_319.wav" controls preload></audio> |
+
+**320**
+
+|   System   | transcription: 他不小心把茶杯碰翻了 (ta bu xiao xin ba cha bei peng fan le) | 
+|:---------:|:-------------------------------------------------------------------:|
+| EL speech | <audio src="audio/EL01v3_audio_segment_16k/EL01v3_320.wav" controls preload></audio> |
+| KNN  | <audio src="audio/knnvc_dynamic_mlpg_k256/320.wav" controls preload></audio> |
+| pKNN  | <audio src="audio/knnvc_static_parallel_k8/320.wav" controls preload></audio> |
+| LLE   | <audio src="audio/llevc_dynamic_k256/320.wav" controls preload></audio> |
+| CDVAE | <audio src="audio/cdvqvae_vocoder_prematch/EL01v3_NL01v3_320.wav" controls preload></audio> |
+| NL speech | <audio src="audio/NL01v3_audio_segment_16k/NL01v3_320.wav" controls preload></audio> |
 
 ## Reference
 
